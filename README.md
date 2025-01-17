@@ -44,6 +44,6 @@ Edit
 example.c
 
 **THE OUTPUT OF THE FILE
-
+![Image](https://github.com/user-attachments/assets/ab2003d8-1bf8-4fbb-8f55-bffa47cfb6e5)
 
 
